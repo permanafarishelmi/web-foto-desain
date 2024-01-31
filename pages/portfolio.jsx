@@ -23,7 +23,7 @@ function Portfolio() {
 					{/* awal box */}
 					<div className="portfolio-item">
 			      		<img src="/aes1.jpg" className="portfolio-image" />
-						  <a href="https://web-desain-logo.vercel.app//">
+						  <a href="https://web-foto.vercel.app/">
 								<h4 className="portfolio-name">Fotografi</h4>
 							</a>
 			      		<div className="portfolio-category">Photograph</div>
@@ -32,7 +32,7 @@ function Portfolio() {
 					{/* awal box */}
 			      	<div className="portfolio-item">
 			      		<img src="/asmaraku-radio16.png" className="portfolio-image" />
-						  <a href="https://web-desain-logo.vercel.app//">
+						  <a href="https://web-desain-logo.vercel.app/">
 								<h4 className="portfolio-name">Desain logo</h4>
 							</a>
 			      		<div className="portfolio-category">Logo Design</div>
