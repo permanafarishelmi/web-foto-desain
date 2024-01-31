@@ -16,7 +16,7 @@ function Contact() {
 			    <div className="text-wrapper w-full">
 			      <h1 className="title">Contact</h1>
 			      <p className="description">
-			      	Berikut kontak yang dapat dihubungi terkait fotografi dan desain logo.
+			      	Berikut kontak yang dapat dihubungi terkait fotografi dan desain logo:
 			      </p>
 			      <ul className="contact-links">
 			      	<li className="contact-item">Email: permanafarishelmi@gmail.com</li>
